@@ -32,4 +32,4 @@ __[Final Notebook](notebooks/final.ipynb)__
 
 Here is a slidedeck with a more organized overview of this project:
 
-__[Slidedeck](Echelon Studios Movie Analysis.pdf)__
+__([Slidedeck](https://github.com/lthudson42/Movie_Analysis/blob/6b4532b0668c700ba677565f99a0b4153c45d8ef/Echelon%20Studios%20Movie%20Analysis.pdf))__
