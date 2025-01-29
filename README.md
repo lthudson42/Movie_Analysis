@@ -32,7 +32,7 @@ __[Final Notebook](notebooks/final.ipynb)__
 
 Here is a slidedeck with a more organized overview of this project:
 
-__[Slidedeck](https://github.com/lthudson42/Movie_Analysis/blob/2b67070e26ce64f68b7b2c7aef6e5a0735c24e97/Echelon%20Studios%20Movie%20Analysis.pdf)__
+__[Slidedeck](https://github.com/lthudson42/Movie_Analysis/blob/ca1fe1988d2eab9cc8e198defda3268bb3aecccd/Echelon%20Studios%20Movie%20Analysis%20.pdf)__
 
 ## Repo Structure
 
